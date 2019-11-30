@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/digits-to-text/static/css/main.b7882603.chunk.css",
+    "main.js": "/digits-to-text/static/js/main.9faf7aa8.chunk.js",
+    "main.js.map": "/digits-to-text/static/js/main.9faf7aa8.chunk.js.map",
+    "runtime-main.js": "/digits-to-text/static/js/runtime-main.8c1f7f68.js",
+    "runtime-main.js.map": "/digits-to-text/static/js/runtime-main.8c1f7f68.js.map",
+    "static/js/2.f0a1f745.chunk.js": "/digits-to-text/static/js/2.f0a1f745.chunk.js",
+    "static/js/2.f0a1f745.chunk.js.map": "/digits-to-text/static/js/2.f0a1f745.chunk.js.map",
+    "index.html": "/digits-to-text/index.html",
+    "precache-manifest.a5dde305df90fe286ad38c83a33fc5a1.js": "/digits-to-text/precache-manifest.a5dde305df90fe286ad38c83a33fc5a1.js",
+    "service-worker.js": "/digits-to-text/service-worker.js",
+    "static/css/main.b7882603.chunk.css.map": "/digits-to-text/static/css/main.b7882603.chunk.css.map",
+    "static/media/logo.svg": "/digits-to-text/static/media/logo.2eff2ebc.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c1f7f68.js",
+    "static/js/2.f0a1f745.chunk.js",
+    "static/css/main.b7882603.chunk.css",
+    "static/js/main.9faf7aa8.chunk.js"
+  ]
+}
